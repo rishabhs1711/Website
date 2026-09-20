@@ -1,0 +1,19 @@
+<article>
+    <section class="header">
+        Posted on $date$
+        $if(author)$
+            by $author$
+        $endif$
+	$if(keywords)$
+	<br>
+	Keywords: $keywords$
+	$endif$
+	$if(description)$
+	<br>
+	Abstract: $description$
+	$endif$
+    </section>
+    <section>
+        $body$
+    </section>
+</article>

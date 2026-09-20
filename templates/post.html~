@@ -1,0 +1,13 @@
+<article>
+    <section class="header">
+        Posted on $date$
+        $if(author)$
+            by $author$
+        $endif$
+	$if(keywords)$<meta name="keywords" content="$keywords$">$endif$
+	$if(description)$<meta name="description" content="$description$">$endif$
+    </section>
+    <section>
+        $body$
+    </section>
+</article>
