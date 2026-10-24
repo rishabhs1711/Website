@@ -1,17 +1,13 @@
 ---
 title: About
 ---
-Nullam imperdiet sodales orci vitae molestie. Nunc quam orci, pharetra a
-rhoncus vitae, eleifend id felis. Suspendisse potenti. Etiam vitae urna orci.
-Quisque pellentesque dignissim felis, egestas tempus urna luctus vitae. In hac
-habitasse platea dictumst. Morbi fringilla mattis odio, et mattis tellus
-accumsan vitae.
 
-1. Amamus Unicode 碁
-2. Interdum nex magna.
+Hi!
+I am a 1st year PhD student at Universität Regensburg under the supervision of Prof. Dr. Guido Kings. 
+I am interested in Number Theory and Arithmetic Geometry, more specifically CM abelian varieties, $L$-functions, Kronecker-Eisenstein Series and the interplay thereof. 
 
-Vivamus eget mauris sit amet nulla laoreet lobortis. Nulla in diam elementum
-risus convallis commodo. Cras vehicula varius dui vitae facilisis. Proin
-elementum libero eget leo aliquet quis euismod orci vestibulum. Duis rhoncus
-lorem consequat tellus vestibulum aliquam. Quisque orci orci, malesuada porta
-blandit et, interdum nec magna.
+I did my Master's in the `ALGANT <https://algant.eu/>`_ program, spending my first year at Universiteit Leiden and the second at Universität Regensburg. My Master's thesis was about explicit class field theory in the CM field case, a copy can be found [here](pdfs/thesis.pdf).
+
+Before that I was at the `Chennai Mathematical Institute <https://www.cmi.ac.in/>`_ for my bachelor's.
+
+
