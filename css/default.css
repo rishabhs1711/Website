@@ -5,13 +5,30 @@ html {
 
 body {
   font-size: 1.6rem;
-  color: #000;
-  background-color: #9772b5
+  color: #d1e0eb;
+  background-color: #5f4178;
 }
 
 header {
-  border-bottom: 0.2rem solid #000;
+  border-bottom: 0.2rem solid rgb(206, 162, 242,0.8);
 }
+
+a:link{
+color: #4aa5e8;
+text-decoration: none;
+}
+
+a:hover {
+  color: #a9cfeb;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:visited{
+  color: #b672ed;
+  background-color: transparent;
+  text-decoration: none;
+}
+
 
 nav {
   text-align: right;
@@ -20,7 +37,8 @@ nav {
 nav a {
   font-size: 1.8rem;
   font-weight: bold;
-  color: black;
+  color: #cea2f2;
+  opacity: 0.8;
   text-decoration: none;
   text-transform: uppercase;
 }
@@ -49,7 +67,8 @@ article .header {
 
 .logo a {
   font-weight: bold;
-  color: #000;
+  color: #cea2f2;
+  opacity: 0.8;
   text-decoration: none;
 }
 
