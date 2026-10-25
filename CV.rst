@@ -14,12 +14,12 @@ Pursuing a PhD in Mathematics under the `CRC 1785 <https://sfb1785.app.uni-regen
 ---------------------------------------
 ALGANT (LEIDEN & REGENSBURG)
 ---------------------------------------
-I was part of the `ALGANT <https://algant.eu>`_ program, doing my 1st year at Universiteit Leiden and the 2nd year at Univerität Regensburg.
+I was part of the `ALGANT <https://algant.eu>`_ program, doing my 1st year at Universiteit Leiden (2024-2025) and the 2nd year at Univerität Regensburg (2025-2026).
 
 ------------------------------
 CHENNAI MATHEMATICAL INSTITUTE
 ------------------------------
-BSc. Honors in Mathematics and Computer Science. 
+BSc. Honors in Mathematics and Computer Science (2021 - 2024).
 
 ======================
 PROJECTS & EXPERIENCES
@@ -28,7 +28,7 @@ PROJECTS & EXPERIENCES
 ---------------
 MASTER'S THESIS
 ---------------
-On the Explicit Class Field theory of CM feilds. Constructing abelian extensions of CM feilds via torsion points on CM abelian varieties.  A copy of this thesis can be found `here <pdfs/thesis.pdf>`_.
+On the Explicit Class Field theory of CM fields. This involved constructing abelian extensions of CM fields via torsion points on CM abelian varieties.  A copy of this thesis can be found `here <pdfs/thesis.pdf>`_.
 
 ----------------------------------
 COUNSELLOR AT PROMYS BOSTON (2025)
