@@ -10,4 +10,5 @@ I did my Master's in the `ALGANT <https://algant.eu/>`_ program, spending my fir
 
 Before that I was at the `Chennai Mathematical Institute <https://www.cmi.ac.in/>`_ for my bachelor's.
 
+Apart from mathematics, I spend a lot of my time reading various kinds of fiction and non-fiction (should I add a reading list?), bouldering, biking, trying out new recipes or playing my flute (admittedly not as often as I would like to :P).
 
