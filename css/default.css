@@ -5,12 +5,12 @@ html {
 
 body {
   font-size: 1.6rem;
-  color: #d1e0eb;
-  background-color: #5f4178;
+  color: #3d3d3d;
+  background-color: #F5F5F5;
 }
 
 header {
-  border-bottom: 0.2rem solid rgb(206, 162, 242,0.8);
+  border-bottom: 0.2rem solid rgb(122, 107, 93,0.8);
 }
 
 nav {
@@ -20,28 +20,28 @@ nav {
 nav a {
   font-size: 1.8rem;
   font-weight: bold;
-  color: #cea2f2;
+  color: #1B5E7A;
   opacity: 0.8;
   text-decoration: none;
   text-transform: uppercase;
 }
 nav a:hover {
-color: #d8bbf0;
+color: #A8D5D0;
 }
 
 
 a:not(nav a, .logo a):link{
-color: #4aa5e8;
+color: #1B5E7A;
 text-decoration: none;
 }
 a:not(nav a, .logo a):visited{
-  color: #b672ed;
+  color: #8A9B8F;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:not(nav a, .logo a):hover {
-  color: #a9cfeb;
+  color: #A8D5D0;
   background-color: transparent;
   text-decoration: underline;
 }
@@ -52,9 +52,9 @@ a:not(nav a, .logo a):hover {
 footer {
   margin-top: 3rem;
   padding: 1.2rem 0;
-  border-top: 0.2rem solid rgb(206, 162, 242,0.8);
+  border-top: 0.2rem solid rgb(122, 107, 93,0.8);
   font-size: 1.2rem;
-  color: rgb(206, 162, 242,0.8);
+  color: rgb(122, 107, 93,0.8);
 }
 
 h1 {
@@ -73,12 +73,12 @@ article .header {
 
 .logo a {
   font-weight: bold;
-  color: #cea2f2;
+  color: #1B5E7A;
   opacity: 0.8;
   text-decoration: none;
 }
 .logo a:hover {
-    color: #d8bbf0;
+    color: #A8D5D0;
 }
 
 @media (max-width: 319px) {
