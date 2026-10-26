@@ -13,23 +13,6 @@ header {
   border-bottom: 0.2rem solid rgb(206, 162, 242,0.8);
 }
 
-a:link{
-color: #4aa5e8;
-text-decoration: none;
-}
-
-a:hover {
-  color: #a9cfeb;
-  background-color: transparent;
-  text-decoration: underline;
-}
-a:visited{
-  color: #b672ed;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-
 nav {
   text-align: right;
 }
@@ -42,13 +25,36 @@ nav a {
   text-decoration: none;
   text-transform: uppercase;
 }
+nav a:hover {
+color: #d8bbf0;
+}
+
+
+a:not(nav a, .logo a):link{
+color: #4aa5e8;
+text-decoration: none;
+}
+a:not(nav a, .logo a):visited{
+  color: #b672ed;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:not(nav a, .logo a):hover {
+  color: #a9cfeb;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+
 
 footer {
   margin-top: 3rem;
   padding: 1.2rem 0;
-  border-top: 0.2rem solid #000;
+  border-top: 0.2rem solid rgb(206, 162, 242,0.8);
   font-size: 1.2rem;
-  color: #555;
+  color: rgb(206, 162, 242,0.8);
 }
 
 h1 {
@@ -70,6 +76,9 @@ article .header {
   color: #cea2f2;
   opacity: 0.8;
   text-decoration: none;
+}
+.logo a:hover {
+    color: #d8bbf0;
 }
 
 @media (max-width: 319px) {
@@ -132,7 +141,7 @@ article .header {
 
 @media (min-width: 640px) {
   body {
-    width: 60rem;
+    width: 90rem;
     margin: 0 auto;
     padding: 0;
   }
