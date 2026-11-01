@@ -105,7 +105,7 @@ body {
 
 
 
-footer {
+footer:not(.daily-quote footer){
   margin-top: 3rem;
   padding: 1.2rem 0;
   border-top: 0.2rem solid rgb(122, 107, 93,0.8);
